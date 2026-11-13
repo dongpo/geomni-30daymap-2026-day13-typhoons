@@ -1,0 +1,10 @@
+{
+  "unique_storm_ids": true,
+  "ascending_unique_timestamps": true,
+  "finite_valid_positions": true,
+  "peak_recomputed": true,
+  "2024_count": true,
+  "2024_100kt_count": true,
+  "2015_100kt_count": true,
+  "gaemi_record_count": true
+}

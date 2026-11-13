@@ -1,0 +1,8 @@
+{
+  "validWindGeometries": 41471,
+  "missingNotDrawn": 42765,
+  "midpointPairsChecked": 40976,
+  "yinxingReference": true,
+  "geometry": "geodesic offset-circle, 72 segments",
+  "conversion": "nautical mile × 1.852 km"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "video/Day13-full-operation.webm",
+  "decoded_frames": 1232,
+  "duration_between_first_last_frame": 42.878,
+  "mean_fps": 28.709361444097205,
+  "frame_gap_p50_seconds": 0.03300000000000125,
+  "frame_gap_p95_seconds": 0.05100000000000193,
+  "frame_gap_max_seconds": 0.29299999999999926,
+  "long_frame_gaps_over_100ms": 10,
+  "decode_success": true,
+  "visual_review_required": [
+    "No stretching or black frames",
+    "Full sidebar, playback controls and timeline visible",
+    "Actual cyclone selection changes panel",
+    "Simultaneous tracks, 30/50kt extent and intensity changes",
+    "No artificial frame interpolation; no screenshot slideshow"
+  ]
+}

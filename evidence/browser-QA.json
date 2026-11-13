@@ -1,0 +1,27 @@
+{
+  "version": "v16",
+  "checked_at": "2026-11-13T02:39:05.941307+08:00",
+  "url": "http://127.0.0.1:8781/outputs/day13-typhoons-v16/index.html",
+  "browser": "Chrome desktop",
+  "checks": {
+    "native_trip_runtime_type_verified": true,
+    "native_trip_2024_segments": 888,
+    "native_trip_fading_tail_visible": true,
+    "synchronized_head_and_wind_playback": true,
+    "r30_r50_original_and_interpolation_labels": true,
+    "missing_USAGI_radii_not_drawn": true,
+    "empty_jan1_no_ghost_wind_after_fix": true,
+    "peak100_filters_four_active_to_two": true,
+    "calendar_year_cross_year_JANGMI": true,
+    "map_click_wind_MAN_YI_preserves_time": true,
+    "pause_and_date_input": true
+  },
+  "fixed_during_QA": "Replaced updateVisData with updateDataset for dynamic wind/head tables, clearing stale geometry without rebuilding native trip dataset",
+  "known_limits": [
+    "No measured FPS benchmark; wind geometry targets 100ms updates, actual rate device-dependent",
+    "Desktop verified, mobile not validated",
+    "Mapbox token warning non-fatal: own blank style and Natural Earth background used",
+    "Offset circles approximate wind radii, not precise wind fields; missing ends not interpolated",
+    "Trip past-72h trails may fade after lifecycle end; centers and wind circles disappear at last record"
+  ]
+}

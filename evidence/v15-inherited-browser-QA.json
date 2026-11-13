@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-11-13T01:08:23.710877+08:00",
+  "version": "v15",
+  "browser": "Chrome",
+  "url": "http://127.0.0.1:8781/outputs/day13-typhoons-v15/index.html",
+  "checks": {
+    "annual_play_to_dec31_stops": true,
+    "four_concurrent_storms_20241109": true,
+    "two_after_peak100_filter": true,
+    "zero_jan1_clears_all_storm_layers": true,
+    "one_MAN_YI_20241120": true,
+    "cross_year_JANGMI_20150101": true,
+    "play_moved_four_storms_to_20241111": true,
+    "map_click_MAN_YI_preserves_timestamp": true,
+    "date_input_and_speed_select": true,
+    "paused_trails_and_interpolation_labels": true,
+    "console_errors": []
+  },
+  "screenshot": "evidence/day13-annual.png",
+  "limitations": [
+    "Desktop tested; mobile not validated",
+    "No measured FPS benchmark",
+    "Fast replay skips fine temporal detail; original-record stepping available"
+  ]
+}

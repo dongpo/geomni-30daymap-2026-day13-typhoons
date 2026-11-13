@@ -1,0 +1,107 @@
+[
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:17:59.177Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:18:46.834Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:18:47.060Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:19:43.620Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:19:43.872Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:21:07.573Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:21:08.882Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:36:11.589Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:36:11.982Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":190,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:36:23.369Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:36:23.451Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:36:29.978Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:36:30.255Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":1210,\"year\":2015,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:37:15.933Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:37:16.023Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:37:25.364Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:37:25.447Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:37:59.236Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:37:59.630Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_CONFIG {\"type\":\"trip\",\"features\":888,\"year\":2024,\"tailSeconds\":259200}",
+    "timestamp": "2026-11-12T18:38:37.142Z"
+  },
+  {
+    "level": "info",
+    "message": "NATIVE_TRIP_RUNTIME [{\"id\":\"heads\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"native-trips\",\"type\":\"trip\",\"constructor\":\"e\"},{\"id\":\"wind50\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"wind30\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"labels\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"graticule\",\"type\":\"geojson\",\"constructor\":\"e\"},{\"id\":\"land\",\"type\":\"geojson\",\"constructor\":\"e\"}]",
+    "timestamp": "2026-11-12T18:38:37.481Z"
+  }
+]
